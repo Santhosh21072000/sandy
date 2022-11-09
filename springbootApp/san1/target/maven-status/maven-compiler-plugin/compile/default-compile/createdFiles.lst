@@ -1,0 +1,4 @@
+com\kgisl\san1\controller\BookController.class
+com\kgisl\san1\entity\Book.class
+com\kgisl\san1\repository\BookRepository.class
+com\kgisl\san1\San1Application.class
